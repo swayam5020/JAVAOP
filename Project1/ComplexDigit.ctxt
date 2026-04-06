@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ComplexDigit
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=n
+comment2.target=int\ digitCount(int)
+comment3.params=n
+comment3.target=int\ digitSum(int)
+comment4.params=n
+comment4.target=boolean\ digitSumEvenCheck(int)
+numComments=5

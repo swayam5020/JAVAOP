@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EmirpNumberChecker
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=num
+comment2.target=boolean\ isPrime(int)
+comment3.params=num
+comment3.target=int\ reverseNumber(int)
+comment4.params=num
+comment4.target=boolean\ isEmirp(int)
+numComments=5

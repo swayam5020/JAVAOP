@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Snake
+comment1.params=
+comment1.target=void\ generateFood()
+comment10.params=
+comment10.target=void\ destroy()
+comment2.params=
+comment2.target=void\ resetGame()
+comment3.params=
+comment3.target=void\ init()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment5.params=ke
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment6.params=ke
+comment6.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment7.params=ke
+comment7.target=void\ keyDown(java.awt.event.KeyEvent)
+comment8.params=ke
+comment8.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment9.params=
+comment9.target=void\ run()
+numComments=11

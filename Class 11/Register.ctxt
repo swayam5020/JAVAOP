@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Register
+comment0.text=Register\ is\ an\ entity\ which\ can\ hold\ a\ maximum\ of\ 100\ names.\ The\ register\ enables\r\nthe\ user\ to\ add\ and\ remove\ names\ from\ the\ top\ most\ end\ only.\ Define\ a\ class\ Register\r\nwith\ the\ following\ details\:
+comment1.params=max
+comment1.target=Register(int)
+comment2.params=n
+comment2.target=void\ push(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ pop()
+comment4.params=
+comment4.target=void\ display()
+numComments=5

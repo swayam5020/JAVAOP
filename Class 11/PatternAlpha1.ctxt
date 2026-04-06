@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PatternAlpha1
+comment0.text=\r\n\ a\r\n\ a\ b\ \r\n\ a\ b\ c\ \r\n\ a\ b\ c\ d\r\n\ a\ b\ c\ d\ e\r\n
+comment1.params=n
+comment1.target=void\ main(int)
+numComments=2

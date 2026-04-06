@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FactorialStr
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=n
+comment2.target=int\ Factor(int)
+numComments=3

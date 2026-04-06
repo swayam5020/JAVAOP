@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DigitCheck
+comment1.params=n\ m
+comment1.target=void\ main(int,\ int)
+comment2.params=n
+comment2.target=boolean\ evenCheck(int)
+comment3.params=n\ m
+comment3.target=boolean\ maxCheck(int,\ int)
+numComments=4

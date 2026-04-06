@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Func
+comment0.text=\ n\=231\r\nevenDigitCheck(int\ n)\ \=\=\ true\r\nPartha\ Sen19\:39\r\nnumberOfDigit(int\ n)\ \ \=3
+comment1.params=n
+comment1.target=void\ main(int)
+comment2.params=n
+comment2.target=boolean\ evenDigitCheck(int)
+comment3.params=n
+comment3.target=int\ numberOfDigit(int)
+numComments=4

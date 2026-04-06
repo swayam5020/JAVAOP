@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Diary
+comment1.params=max
+comment1.target=Diary(int)
+comment2.params=n
+comment2.target=void\ pushadd(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ popadd()
+comment4.params=
+comment4.target=void\ show()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

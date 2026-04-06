@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FuncOverloading2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n\ m
+comment2.target=int\ Calculate(int,\ int)
+comment3.params=m\ n
+comment3.target=long\ Calculate(long,\ int)
+comment4.params=m\ n
+comment4.target=long\ Calculate(long,\ long)
+comment5.params=x\ y\ z
+comment5.target=int\ Calculate(int,\ int,\ int)
+comment6.params=x
+comment6.target=int\ Calculate(int)
+numComments=7

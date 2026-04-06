@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Adder
+comment1.params=
+comment1.target=Adder()
+comment2.params=
+comment2.target=void\ readtime()
+comment3.params=X\ Y
+comment3.target=void\ addtime(Adder,\ Adder)
+comment4.params=
+comment4.target=void\ disptime()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

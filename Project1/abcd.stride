@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="abcd" enable="true" strideversion="1">
+    <javadoc xml:space="preserve"/>
+    <imports/>
+    <implements/>
+    <fields>
+        <variable access="private" static="true" final="true" type="swayam" type-java="swayam" name="ss" value="132" value-java="132" enable="true"/>
+    </fields>
+    <constructors>
+        <constructor access="public" enable="true">
+            <javadoc xml:space="preserve">Constructor for objects of class abcd</javadoc>
+            <params/>
+            <throws/>
+            <body/>
+        </constructor>
+    </constructors>
+    <methods/>
+</class>
